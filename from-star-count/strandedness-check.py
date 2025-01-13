@@ -64,7 +64,7 @@ for file_path in file_list:
 
 # Convert summary to a DataFrame and save as a CSV
 summary_df = pd.DataFrame(summary)
-summary_df.to_csv("strandness_summary.csv", index=False)
+summary_df.to_csv("strandedness_summary.csv", index=False)
 
 # Print summary
 print(summary_df)
