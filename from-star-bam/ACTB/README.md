@@ -1,9 +1,8 @@
 
 ## data is stranded-specific forward
 
-##
-#For ACTB on reverse strand
-##
+ACTB is on the reverse strand, chr7:5527152-5563902
+
 #sense read1 << #antisense read1
 
 #antisense read2 << #sense read2
