@@ -4,6 +4,7 @@
 GAPDH is on the forward strand, chr12:6534517-6538371
 
 #sense read1 >> #antisense read1
+
 #antisense read2 >> #sense read2
 
 == sense read 1
