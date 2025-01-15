@@ -1,0 +1,13 @@
+{
+	"n_targets": 229580,
+	"n_bootstraps": 0,
+	"n_processed": 200000,
+	"n_pseudoaligned": 136771,
+	"n_unique": 47142,
+	"p_pseudoaligned": 68.4,
+	"p_unique": 23.6,
+	"kallisto_version": "0.44.0",
+	"index_version": 10,
+	"start_time": "Tue Jan 14 17:15:42 2025",
+	"call": "kallisto quant -i kallisto_index -o stranded_test_HKB0752_3001_1/kallisto_strand_test --genomebam --gtf /fdb/GENCODE/Gencode_human/release_35/gencode.v35.annotation.gtf stranded_test_HKB0752_3001_1/HKB0752_3001_1_sample.fq stranded_test_HKB0752_3001_1/HKB0752_3001_2_sample.fq"
+}

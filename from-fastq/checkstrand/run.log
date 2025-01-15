@@ -1,0 +1,32 @@
+
+[quant] fragment length distribution will be estimated from the data
+[index] k-mer length: 31
+[index] number of targets: 229,580
+[index] number of k-mers: 141,611,131
+[index] number of equivalence classes: 978,030
+[quant] running in paired-end mode
+[quant] will process pair 1: stranded_test_HKB0752_3001_1_1/HKB0752_3001_1_sample.fq
+                             stranded_test_HKB0752_3001_1_1/HKB0752_3001_2_sample.fq
+[quant] finding pseudoalignments for the reads ... done
+[quant] processed 1,000,000 reads, 685,015 reads pseudoaligned
+[quant] estimated average fragment length: 168.803
+[   em] quantifying the abundances ... done
+[   em] the Expectation-Maximization algorithm ran for 909 rounds
+[  bam] writing pseudoalignments to BAM format .. done
+[  bam] sorting BAM files .. done
+[  bam] indexing BAM file .. done
+
+Reading reference gene model stranded_test_HKB0752_3001_1_1/gencode.v35.annotation.bed ... Done
+Loading SAM/BAM file ...  Total 1000000 usable reads were sampled
+Results stored in: stranded_test_HKB0752_3001_1_1
+converting gtf to bed
+using kallisto_index as kallisto index
+creating fastq files with first 1000000 reads
+quantifying with kallisto
+checking strandedness
+This is PairEnd Data
+Fraction of reads failed to determine: 0.1498
+Fraction of reads explained by "1++,1--,2+-,2-+": 0.0104 (1.2% of explainable reads)
+Fraction of reads explained by "1+-,1-+,2++,2--": 0.8397 (98.8% of explainable reads)
+== Over 90% of reads explained by "1+-,1-+,2++,2--"
+== Data is likely RF/fr-firststrand or reverse-stranded
