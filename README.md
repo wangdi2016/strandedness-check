@@ -17,6 +17,9 @@ aligned in relation to the transcript strand, and provides output with the likel
 
 https://eclipsebio.com/eblogs/stranded-libraries/
 
+<img width="651" alt="Screenshot 2025-01-14 at 8 43 40 PM" src="https://github.com/user-attachments/assets/1ffc31c4-e20a-44ca-90f8-ea1c4ae564c9" />
+
+
 https://littlebitofdata.com/en/2017/08/strandness_in_rnaseq/
 <img width="1193" alt="Screenshot 2025-01-14 at 8 41 00 PM" src="https://github.com/user-attachments/assets/6b24ba45-4a30-4d19-bab4-1f5aa230a51b" />
 
